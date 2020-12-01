@@ -1,3 +1,4 @@
+/*Weather widget*/
 const weather = document.querySelector(".js-weather");
 const API_KEY = '90f91896e44f43c199f3f5e3cd5b0259';
 const COORDS =  'coords';

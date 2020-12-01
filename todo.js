@@ -1,3 +1,4 @@
+/*Todo Widget*/
 const todoForm = document.querySelector(".js-toDoForm");
 const todoInput = todoForm.querySelector("input");
 const todoList = document.querySelector(".js-toDoList");
